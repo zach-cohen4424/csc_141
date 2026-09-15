@@ -1,3 +1,5 @@
 print("Hello Python World!")
 print("hello_world.py")
+print("Hello Python Crash Course World!")
+print("Hello amazing world of Python!")
 # printx("Hello Python Crash Course world!")
